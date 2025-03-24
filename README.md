@@ -1,8 +1,10 @@
 # TestDemos
 一些想法实现小demo
 
-TestDemo_CharacterIK：版本2022.3.47f  场景交互实现
+MiniCharacterIK：版本2022.3.47f  场景交互实现
+
 [▶️ 点击观看演示视频](https://github.com/lxy1012/TestDemos/issues/1#issue-2941216861)
+mini mode:Based on a finite state machine, the interaction between the character and the scene is realized - touching the objects of the scene
 
 TestDemo_PackageBuilder:版本2022.3.47f 资源管理+自动化管理
 ![1742801859(1)](https://github.com/user-attachments/assets/6a246571-5cf2-403a-88c2-e1eb6ff073f4)
