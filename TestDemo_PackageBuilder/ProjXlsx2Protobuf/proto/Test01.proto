@@ -1,0 +1,12 @@
+syntax = "proto3";
+package TableProto;
+
+message Test01Element {
+    int64 id = 1;
+    string name = 2;
+    repeated int64 pos = 3;
+}
+
+message Test01 {
+    repeated Test01Element m_datas = 1;
+}
