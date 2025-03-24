@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+message AssetBundleBase {
+    uint32 Crc = 1;
+    string ABName = 2;
+	string AssetName = 3;
+	string Path = 4;
+    repeated string ABDependcies = 5;
+}
+
+message AssetBundleConfigData {
+	string version = 1;
+    repeated AssetBundleBase AssetBundleLists = 2;
+}

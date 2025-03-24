@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 629233957
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0f494385bef55a4e9970ad3c6d12628
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d0f494385bef55a4e9970ad3c6d12628
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Textures/ID_888.bmp
+- Assets/GameAssets/Textures/ID_362.bmp
+Dependencies: []

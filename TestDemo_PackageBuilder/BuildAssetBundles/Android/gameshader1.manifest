@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3626324280
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6abc94d98ab1be58738b054cf6b97df6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0df1dec30b5d061d422d3e6493d27647
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6abc94d98ab1be58738b054cf6b97df6
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Shaders/shader1/Skybox.shader
+Dependencies: []

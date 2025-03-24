@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 806943903
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetbundleconfig
+      Dependencies: {}
+    Info_1:
+      Name: gameshader1
+      Dependencies: {}
+    Info_2:
+      Name: gameshader2
+      Dependencies: {}
+    Info_3:
+      Name: gamesound
+      Dependencies: {}
+    Info_4:
+      Name: ccc
+      Dependencies: {}
+    Info_5:
+      Name: monster
+      Dependencies: {}
